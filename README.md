@@ -1,6 +1,16 @@
 # **Grant Sorenson's ePortfolio**
-I am Grant Sorenson 
+I am Grant Sorenson and this portfolio represents my skills with examples in computer science. The first project represents teh culmination of knowledge while attending SNHU. 
+# Project 1: SNHUBank ATM
 ## *Self-Assessment*
+
+## *Initial Code Review*
+### Artifact Background
+Initially for this project I was going to create seperate artifacts that included the required functionality and displayed my skills effectivly. However, as I continued work on the first artifact, I realized that I could implemenet every other category into it, so i did, and called it the SNHUBankATM. This Project started in a course called CS-255 Systems Design, and was only a small system on paper when the course was completed. It represented a banking ATM system in which a user could make actions like depositing and withdrawing money. It was a simple concept and I liked it because it would allow me to create something from scratch and show off as many skills as I could think of. A few of the technologies I decided to use were .Net Maui, MongoDB, Mockaroo, and a few other supplimentary tools. It was difficult to decide what framworks to use, but after some cursory research I decided to go with .Net with most of the code being written in c#.
+### Code Assessment
+...
+### Planned Enhancements
+...
+## *Artifact - SNHUBankATM*
 <!--
 **LumpyDz/LumpyDz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
