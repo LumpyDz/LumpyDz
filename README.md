@@ -1,5 +1,6 @@
 # **Grant Sorenson's ePortfolio**
-
+I am Grant Sorenson 
+## *Self-Assessment*
 <!--
 **LumpyDz/LumpyDz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
