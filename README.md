@@ -1,28 +1,21 @@
 # **Grant Sorenson's ePortfolio**
-I am Grant Sorenson and this portfolio represents my skills with examples in computer science. The first project represents teh culmination of knowledge while attending SNHU. 
+  I am Grant Sorenson and this portfolio represents my skills with examples in computer science. The first project represents teh culmination of knowledge while attending SNHU. 
 # Project 1: SNHUBank ATM
 ## *Self-Assessment*
 
 ## *Initial Code Review*
 ### Artifact Background
-Initially for this project I was going to create seperate artifacts that included the required functionality and displayed my skills effectivly. However, as I continued work on the first artifact, I realized that I could implemenet every other category into it, so i did, and called it the SNHUBankATM. This Project started in a course called CS-255 Systems Design, and was only a small system on paper when the course was completed. It represented a banking ATM system in which a user could make actions like depositing and withdrawing money. It was a simple concept and I liked it because it would allow me to create something from scratch and show off as many skills as I could think of. A few of the technologies I decided to use were .Net Maui, MongoDB, Mockaroo, and a few other supplimentary tools. It was difficult to decide what framworks to use, but after some cursory research I decided to go with .Net with most of the code being written in c#.
+  Initially for this project I was going to create separate artifacts that included the required functionality and displayed my skills effectively. However, as I continued work on the first artifact, I realized that I could implement every other category into it, so i did, and called it the SNHUBankATM. This Project started in a course called CS-255 Systems Design, and was only a small system on paper when the course was completed. It represented a banking ATM system in which a user could make actions like depositing and withdrawing money. It was a simple concept and I liked it because it would allow me to create something from scratch and show off as many skills as I could think of. A few of the technologies I decided to use were .Net Maui, MongoDB, Mockaroo, and a few other supplementary tools. It was difficult to decide what framework to use, but after some cursory research I decided to go with .Net with most of the code being written in c#.
 ### Code Assessment
-...
+  This project only existed on paper up until a few months ago, so the code review for this project is centered around some cursory pseudo-code and a few charts displaying action events and variables. Because of this, I had to start creating documentation for this system so I could build a solid foundation for the rest of the project. I knew .Net Maui framework used a Model View View-Model style architecture, so I created class outlines and charts based on this idea. The original content I had was undocumented and poorly outlined, so I had to create the classes and logic on paper. While it was difficult to create all of this, I felt it may have been slightly easier than starting with a codebase and content that had already been slightly written up. This allowed me to create freely and avoid problems that involved rewriting entire systems. 
+  I do think the content that was initially created could have been better documented and had more examples of functionality. It should have had at least some additional proof of concept for some technologies that could be used to create such a system. Overall I thought going back and looking at what I had thought of was fun, and bringing it to fruition is a cool experience as the creator of this project. The video for the code assessment can be found *here*, however within the video are projects that are no longer referenced by this assignment. 
 ### Planned Enhancements
-...
+1. **Software Design and Engineering:**
+This project has been created from only a few design documents that I have created in another course, so to show my skills in software design and engineering I will create improved documentation for a desktop application created with .Net Maui and then implement those designs and create the application. This application will have a few different capabilities and will contain data that has been created using data generation software. This application is supposed to represent an ATM and will allow the user to select a preloaded account, login, view their accounts, and make actions on accounts. The supplied documents will outline the classes required and system design for how the application behaves and data is accessed. Overall these enhancements will show how I design and evaluate computing solutions that solve a given problem, demonstrate an ability to use well founded and innovative techniques, and develop a security mindset that anticipates adversarial exploits in software architecture and designs.
+2. **Algorithms and Data Structures:**
+This project will use custom data structures to create objects whose data is supplied from a database. The main data structures will represent a single UserAccount and include information about the user, including a collection of accounts, which will also include data like the type of account and balance. Additionally, each account will have a collection of histories, in which there will be information like the action type(deposit, withdraw), date, and amount. This data will need to be formatted if it requires user access, like the changing of an account balance or other user information. Formatting can require logic chains to reach the desired result, I will add some of these into the project to demonstrate algorithmic thinking. These enhancements will allow me to design and develop professional quality written visual communications, Demonstrate an ability to use well founded innovative techniques and skills, as well as develop a security mindset that anticipates adversarial exploits in software architecture.
+3. **Databases:**
+Because this project needs data to be interesting to interact with, it will need a database to pull that data from. I plan to implement a MongoDB database into the application and use a custom service class to process all of the requests. I will process the requests at an abstracted level so there is no easy way to access it, and it cannot be manipulated. The database will be in JSON and includes double nested elements as well as image url links that are operational. This will demonstrate my ability to Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in the field of computer science, Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution while managing the trade-offs involved in design choices, and Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources.  
+
 ## *Artifact - SNHUBankATM*
-<!--
-**LumpyDz/LumpyDz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
